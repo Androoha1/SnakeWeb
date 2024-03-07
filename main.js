@@ -8,7 +8,7 @@ var snake1 , snake2;
 var apple;
 
 const colorSet1 = ['#AE6503' , '#F2A947'];
-const colorSet2 = ['#52A414' , '#6DDE19'];
+const colorSet2 = ['#111111' , '#111111'];
 
 var score1 = 0;
 var score2 = 0;
