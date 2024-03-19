@@ -1,6 +1,6 @@
-This is the SnakeWeb project.
+#This is the SnakeWeb project.
 
-Manual instruction how to set it up with Docker Desktop.
+##Manual instruction how to set it up with Docker Desktop.
 1. Download Docker Desktop app.
 2. Clone the repo.
 3. Run ./docker/docker-setup.bat script.
