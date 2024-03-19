@@ -1,5 +1,5 @@
 cd C:/
-git clone https://gitlab.com/games6082010/SnakeWeb
+git clone https://github.com/Androoha1/SnakeWeb
 
 cd SnakeWeb
 
